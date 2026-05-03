@@ -1,0 +1,6 @@
+12345 Bengaluru Chennai Rajdhani_Express 100 450
+67890 Bengaluru Mumbai Deccan_Queen 80 850
+11223 Chennai Mumbai Coastal_Express 60 700
+44556 Delhi Mumbai Shatabdi_Express 120 1200
+78901 Bengaluru Delhi Karnataka_Express 90 1500
+33214 Mumbai Pune Intercity_Express 150 200

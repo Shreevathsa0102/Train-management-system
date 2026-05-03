@@ -1,0 +1,22 @@
+# Compiled binaries
+train
+train.exe
+*.o
+*.out
+
+# Temporary files created during runtime
+temp.txt
+temp_book.txt
+
+# Auto-generated data files (optional: remove these lines if you want to track sample data)
+bookings.txt
+cancelled.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+*.swp
+*.swo
